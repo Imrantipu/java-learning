@@ -12,3 +12,10 @@
    git commit -a -m "my second commit"
 // check previous activity 
    git log
+// to see the changes in working directory
+   git diff
+// if it staged with add command then to see the difference
+   git diff --staged
+// add all existing file in the staging area
+   git add.
+   
