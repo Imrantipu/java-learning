@@ -10,4 +10,5 @@
    git commit -m "my first commit"
 // direct commit without staging with -a flag 
    git commit -a -m "my second commit"
-   
+// check previous activity 
+   git log
