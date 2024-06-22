@@ -1,0 +1,13 @@
+// first to check git installed or not 
+   git --version
+// then check the folder is initialized by git or not 
+   git status
+// initialized the folder
+   git init
+// put files in staging
+   git add LearningGit.txt
+// then commit with a message
+   git commit -m "my first commit"
+// direct commit without staging with -a flag 
+   git commit -a -m "my second commit"
+   
